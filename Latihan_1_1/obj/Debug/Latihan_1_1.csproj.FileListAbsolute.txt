@@ -7,3 +7,6 @@ D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\Latih
 D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
 D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\Latihan_1_1\obj\Debug\Latihan_1_1.exe
 D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+C:\Users\Morris Tokido\Desktop\Selasa_141110051_MorrisMichaelTokido\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+C:\Users\Morris Tokido\Desktop\Selasa_141110051_MorrisMichaelTokido\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+C:\Users\Morris Tokido\Desktop\Selasa_141110051_MorrisMichaelTokido\Latihan_1_1\obj\Debug\Latihan_1_1.pdb

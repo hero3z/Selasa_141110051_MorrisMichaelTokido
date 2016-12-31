@@ -7,3 +7,6 @@ D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\volle
 D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
 D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\volleyball_problem\obj\Debug\volleyball_problem.exe
 D:\Mikroskil\Framework.Net Lanjutan\Selasa_141110558_EricAlexanderPrasetyo\volleyball_problem\obj\Debug\volleyball_problem.pdb
+C:\Users\Morris Tokido\Desktop\Selasa_141110558_EricAlexanderPrasetyo\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+C:\Users\Morris Tokido\Desktop\Selasa_141110558_EricAlexanderPrasetyo\volleyball_problem\obj\Debug\volleyball_problem.exe
+C:\Users\Morris Tokido\Desktop\Selasa_141110558_EricAlexanderPrasetyo\volleyball_problem\obj\Debug\volleyball_problem.pdb
